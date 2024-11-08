@@ -5,7 +5,6 @@ UX/UI Design
 ------------
 
 * 🌍  I'm based in Thailand
-* 🖥️  See my portfolio at [My Ui Design Portfolio](http://https://www.figma.com/design/DJCBnzLUz3PDLuvk4cvrah/s%2Fw-eng-project?node-id=0-1&t=bom8RVbDgB7P24ZZ-1)
 * ✉️  You can contact me at [654234005@parichat.skru.ac.th](mailto:654234005@parichat.skru.ac.th)
 
 ### Skills
