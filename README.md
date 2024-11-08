@@ -5,7 +5,7 @@ UX/UI Design
 ------------
 
 * 🌍  I'm based in Thailand
-* ✉️  You can contact me at [654234005@parichat.skru.ac.th](mailto:nattwut0878945256@gmail.com)
+* ✉️  You can contact me at [nattwut0878945256@gmail.com](mailto:nattwut0878945256@gmail.com)
 
 ### Skills
 
